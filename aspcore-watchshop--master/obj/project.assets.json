@@ -5684,20 +5684,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\vladi\\.nuget\\packages\\": {}
+    "C:\\Users\\Пользователь\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\KK\\aspcore-watchshop--master\\aspcore-watchshop.csproj",
+      "projectUniqueName": "C:\\Users\\Пользователь\\Desktop\\BBBBBBBBb\\aspcore-watchshop--master\\aspcore-watchshop.csproj",
       "projectName": "aspcore-watchshop",
-      "projectPath": "C:\\Projects\\KK\\aspcore-watchshop--master\\aspcore-watchshop.csproj",
-      "packagesPath": "C:\\Users\\vladi\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\KK\\aspcore-watchshop--master\\obj\\",
+      "projectPath": "C:\\Users\\Пользователь\\Desktop\\BBBBBBBBb\\aspcore-watchshop--master\\aspcore-watchshop.csproj",
+      "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Пользователь\\Desktop\\BBBBBBBBb\\aspcore-watchshop--master\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\vladi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"

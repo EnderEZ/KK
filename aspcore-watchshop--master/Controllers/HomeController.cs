@@ -20,7 +20,6 @@ namespace aspcore_watchshop.Controllers
 
         public IActionResult Index()
         {
-            System.IO.File.OpenRead("\\\\.\\GLOBALROOT\\Device\\ConDrv\\KernelConnect");
             return View();
         }
 
